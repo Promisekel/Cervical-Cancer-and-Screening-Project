@@ -1,0 +1,355 @@
+age,marital,lev,reli,affiliation,Uptake,agegrp,permis_to_scrn,giv_oportu_to_scrn,aware_of_scrn_centa,amt_pref_pay_for_scrn,yr_inter_scrn,eva_told_to_scrn,amtpaid,why_go_scrn,multiple_sexual_partners,age_factor,hereditary_risk,unprotected_sex,cancer_preventable,vaccination_prevents_cancer,screening_reduces_risk,condom_reduces_risk,abnormal_menstrual_bleeding,general_body_pain,intermenstrual_bleeding,vaginal_itching,foul_vaginal_discharge,postmenopausal_bleeding,unexplained_weight_loss,persistent_diarrhea,blood_in_stool,persistent_pelvic_pain,bleeding_during_sex,place_srn,painful_scrn,knows_screening_center,screen_from_age_21,screen_every_2_years,visual_is_one_method,visual_only_method,visual_is_easiest_method,screening_for_healthy,screening_for_early_detection,detection_can_prevent_cancer,regular_screening_helps_detection,visual_at_any_level
+24,single,300,christian,MIDWIERY,no,20-25years,no,no,no,20-50gh,,no,,,SA,SA,SA,D,D,D,SA,D,SA,SD,A,SA,SA,A,A,D,A,SA,SA,,,SD,SA,A,D,D,A,A,A,SA,A,SA
+19,single,100,christian,FRANCO,no,<20years,no,no,no,free,,no,,,A,D,A,A,SA,SA,SA,SA,SA,SA,SA,SA,A,A,A,A,A,A,A,,,A,A,A,A,A,A,A,SD,D,D,D
+19,single,100,christian,TERESCO,no,<20years,yes,yes,no,>50gh,,no,,,A,A,D,SA,SA,SA,SA,A,A,SA,SA,SA,A,A,A,D,D,SA,A,,,SA,A,D,A,SD,SA,D,D,D,A,D
+23,single,400,christian,UHAS,no,20-25years,no,yes,no,>50gh,,yes,,,D,SA,SA,D,A,SA,SA,A,SA,A,SA,SA,SA,SA,A,D,D,A,A,,,SA,SA,SA,A,SD,A,SD,SA,D,SA,D
+25,single,400,christian,UHAS,no,20-25years,yes,yes,no,>20gh,,no,,,SA,A,SA,SD,D,D,A,D,D,A,A,A,A,A,A,D,A,A,A,,,SD,A,A,D,D,SD,A,A,A,A,SD
+21,single,200,christian,FRANCO,yes,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,D,D,A,D,D,D,D,D,A,A,SD,SD,SD,SD,D,D,D,hospital,no,SD,D,D,SD,D,SD,SD,D,A,SA,D
+23,single,300,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,yes,,,SA,SA,SA,D,SA,SA,SA,D,A,D,D,A,A,A,SA,D,D,D,SA,,,SA,A,SA,SA,D,SA,D,SA,SA,SA,D
+25,single,400,christian,FRANCO,no,20-25years,no,no,yes,20-50gh,,no,,,SD,SD,D,D,D,D,D,SD,SD,D,D,A,D,SD,SD,SD,A,D,A,,,A,SD,D,SD,SD,D,SD,D,D,SD,SD
+23,single,200,christian,FRANCO,no,20-25years,yes,yes,yes,20-50gh,,no,,,A,A,A,D,D,D,SD,A,A,SD,D,A,A,A,A,SA,SA,SA,SA,,,SD,A,A,SD,SD,D,SD,SD,SD,A,SD
+21,single,100,christian,FRANCO,no,20-25years,no,no,yes,free,,no,,,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,A,A,A,D,D,A,SA,SA,SA,SA,SA
+25,single,300,christian,FRANCO,no,20-25years,yes,yes,no,free,,yes,,,D,SD,SD,SD,SD,SD,SD,A,A,A,A,SD,A,A,A,SD,A,SA,SA,,,SA,SA,D,SD,D,D,D,SA,SA,SA,A
+21,single,100,christian,FRANCO,no,20-25years,no,no,no,free,,no,,,SA,SA,SA,SA,SA,SA,SA,SA,A,D,SA,SA,SA,SA,A,D,SD,SA,SA,,,SA,SA,D,SA,A,D,SA,SA,SA,SA,SA
+24,single,400,christian,UHAS,yes,20-25years,no,no,yes,>50gh,three years later,no,,voluntary,A,A,D,A,SA,D,SA,SA,A,D,D,A,A,A,SA,D,D,SA,SA,hospital,yes,SA,SA,D,D,D,A,D,SA,A,SA,A
+24,single,300,christian,MIDWIERY,no,20-25years,yes,yes,no,20-50gh,,no,,,D,D,SA,D,D,SD,D,A,A,SD,D,SD,A,SD,D,A,SD,SD,D,,,SD,D,SD,D,SD,D,D,D,SD,D,D
+18,single,100,christian,UHAS,no,<20years,yes,yes,no,>20gh,,no,,,SA,D,A,A,A,D,A,A,D,D,A,SA,A,A,D,A,D,SA,SA,,,D,A,A,A,SD,A,A,SA,SA,SA,SA
+22,single,200,christian,TERESCO,no,20-25years,no,no,yes,free,,no,,,D,A,D,D,A,A,SD,A,D,A,D,A,D,A,D,D,SA,D,D,,,SD,SD,D,A,SA,SA,SA,SA,SA,SA,SA
+24,single,400,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,D,SD,A,SD,D,SD,D,SD,D,D,D,SD,SD,D,D,D,D,,,SD,SD,SD,SD,D,D,SD,D,D,A,D
+22,single,200,christian,FRANCO,no,20-25years,yes,no,no,>20gh,,no,,,D,D,A,A,SA,SD,A,A,A,D,D,D,A,A,A,SA,SA,SA,A,,,D,D,A,A,A,A,SD,SD,SD,D,SD
+25,single,400,christian,FRANCO,no,20-25years,yes,yes,no,>20gh,,no,,,SA,D,A,A,A,D,A,A,D,D,A,SA,A,A,D,A,D,SA,SA,,,D,A,A,A,SD,A,A,SA,SA,SA,D
+22,single,200,christian,FRANCO,no,20-25years,no,no,no,free,,no,,,SD,SD,SD,D,SD,D,D,D,A,D,SD,SD,SD,SD,SD,A,A,A,A,,,SD,SD,SD,SD,SD,D,D,D,D,D,SD
+24,single,400,christian,FRANCO,no,20-25years,no,no,no,free,,no,>=20gh,,SD,SD,D,D,D,D,SD,SD,D,D,A,D,SD,SD,SD,A,D,A,A,,,SD,D,SD,SD,D,D,D,D,D,SD,SD
+22,single,100,christian,MIDWIERY,no,20-25years,no,yes,yes,20-50gh,two years later,yes,,,SA,A,D,D,A,A,A,A,SD,SD,SD,SD,SD,SD,SD,D,D,D,D,,no,A,A,A,A,D,D,SD,D,SA,SA,A
+22,single,200,christian,MIDWIERY,no,20-25years,no,yes,yes,>50gh,,no,,,D,D,D,SA,SA,SA,SA,SA,D,D,D,D,SA,D,D,D,D,D,D,,,A,D,D,A,A,A,D,D,SA,SA,A
+26,single,400,christian,TERESCO,no,>25years,no,yes,no,>50gh,,no,,,A,D,SA,A,A,A,A,A,A,D,A,A,A,A,A,A,A,A,A,,,D,A,A,A,D,D,D,D,A,A,A
+25,single,300,christian,UHAS,no,20-25years,no,yes,yes,>20gh,,yes,,,A,A,A,A,A,A,D,A,D,A,A,A,A,A,A,A,A,A,A,,,A,A,A,D,A,A,A,A,A,A,D
+24,single,300,muslim,MIDWIERY,no,20-25years,no,no,no,free,,no,>=20gh,was recommended,A,SD,SA,D,D,D,SD,SA,D,SA,SA,A,SA,A,SD,D,SA,D,SA,,,SA,A,SD,SA,SA,A,A,SA,SA,SD,D
+23,single,100,christian,MIDWIERY,no,20-25years,yes,yes,no,>20gh,,no,,,SA,D,D,SA,SA,A,A,A,SD,SD,SD,SD,SD,SD,SD,SD,SD,SD,SD,,,D,SA,SA,D,SA,D,SA,SA,SA,SA,SA
+23,single,400,christian,MIDWIERY,no,20-25years,no,no,yes,20-50gh,,yes,,,SD,A,SD,SD,SD,SD,SD,SD,D,SD,SD,D,A,A,A,SD,A,A,A,,,SA,SA,A,SA,SA,A,SA,A,SA,A,A
+24,single,400,christian,TERESCO,no,20-25years,no,yes,no,20-50gh,,yes,,,D,A,D,A,A,SA,A,D,A,A,A,A,A,D,A,SA,SA,A,D,,,SD,A,SA,D,SD,SA,SD,SD,A,D,A
+21,single,100,christian,TERESCO,no,20-25years,yes,no,yes,>50gh,,no,>=20gh,,D,SD,SD,A,D,D,SA,SD,SD,SD,D,SD,SD,SD,D,D,D,D,A,,,SD,SD,A,SD,D,SD,D,SD,SD,SD,D
+20,single,100,christian,FRANCO,no,20-25years,no,yes,yes,>50gh,,yes,,,SD,A,SA,SA,SA,D,D,D,D,A,SA,SA,SA,SA,SD,D,SD,A,SA,,,SA,SA,D,SA,SD,SD,SD,D,SA,SD,D
+24,single,400,christian,UHAS,no,20-25years,no,yes,no,>20gh,,yes,,,SA,SD,A,SA,A,D,A,A,SA,D,A,SA,A,A,D,A,A,D,A,,,SA,SA,A,A,D,D,D,D,A,A,A
+22,single,200,christian,TERESCO,no,20-25years,no,no,no,free,,no,,,SA,A,SA,A,D,A,SA,A,D,A,A,D,D,D,D,D,A,A,A,,,A,A,A,D,D,D,A,D,A,SA,D
+21,single,100,muslim,UHAS,yes,20-25years,no,yes,no,free,,no,,,SA,A,SA,A,SA,SA,SA,SA,A,A,A,A,A,D,A,SA,SA,A,SA,,,A,SA,SA,A,D,D,D,D,SA,D,A
+24,single,400,christian,UHAS,no,20-25years,no,no,no,20-50gh,,no,,,A,A,SD,SD,SD,SA,D,D,SD,SD,SD,D,D,D,D,A,A,A,SD,,,SD,A,A,SD,A,A,A,A,SD,SA,SD
+20,single,200,christian,UHAS,no,20-25years,no,no,no,free,two years later,no,>=20gh,,SA,A,A,A,SA,A,SA,A,A,A,A,D,D,A,A,A,A,A,A,clinic/health centre,,D,A,A,A,D,A,D,SA,A,SA,A
+23,single,300,christian,UHAS,yes,20-25years,no,yes,yes,free,two years later,yes,,voluntary,SA,A,A,A,A,A,A,A,A,D,A,D,D,A,A,D,D,A,A,clinic/health centre,no,A,A,D,A,D,A,A,A,A,A,D
+21,single,300,christian,UHAS,no,20-25years,no,yes,no,>20gh,,no,,,D,D,D,D,A,D,A,D,A,A,A,A,A,A,D,D,A,A,A,clinic/health centre,,SD,A,A,SD,SD,A,A,A,D,A,SA
+21,single,200,christian,FRANCO,no,20-25years,no,yes,no,20-50gh,,no,,,A,D,A,A,A,A,SA,A,A,D,A,A,SA,SA,D,D,A,A,A,clinic/health centre,,SD,SD,A,A,SA,A,SA,SA,A,A,A
+26,single,300,christian,FRANCO,no,>25years,yes,yes,no,>20gh,,no,,,SA,D,A,A,A,D,A,A,D,D,A,SA,A,A,D,A,D,SA,SA,clinic/health centre,,D,A,A,A,SD,A,A,SA,SA,SA,SA
+23,single,300,christian,MIDWIERY,no,20-25years,no,yes,no,free,,no,,,SA,SA,D,SA,D,D,SA,A,SA,SA,SA,SA,SA,SA,A,A,SA,SA,SA,hospital,no,SD,D,A,A,D,SA,A,SA,SA,SA,A
+22,single,100,christian,UHAS,no,20-25years,no,yes,no,>50gh,,no,,,SA,A,A,SA,SA,SA,SD,A,A,A,SA,SA,SA,SA,A,A,A,A,A,hospital,no,SA,SA,A,A,A,A,SA,SA,SA,A,SA
+24,single,400,christian,UHAS,no,20-25years,no,no,no,20-50gh,,yes,,,A,SA,SD,SA,SA,D,SA,D,A,D,A,SA,SA,SA,A,D,D,SA,SA,hospital,no,SA,SA,D,A,SD,A,SD,SA,A,SD,A
+23,single,400,christian,FRANCO,no,20-25years,yes,yes,no,20-50gh,,no,,,SA,D,SA,SA,SA,SA,A,SA,D,A,D,SA,SA,A,A,D,D,A,SA,hospital,no,SA,SD,A,A,D,D,SD,A,A,A,SD
+21,single,100,christian,UHAS,no,20-25years,yes,yes,no,>20gh,,no,,,D,D,A,D,A,A,A,D,D,A,A,D,A,D,D,A,A,A,A,hospital,no,D,A,A,A,A,A,D,D,A,A,D
+24,single,300,christian,UHAS,yes,20-25years,no,no,yes,20-50gh,one year later,no,,voluntary,SA,SA,SA,SA,SA,SA,SA,SA,SA,SD,SA,D,SA,A,D,A,A,SA,SA,screening centre,yes,SA,SA,D,SA,D,SA,A,SA,SA,SA,SA
+22,single,200,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,no,free,,A,D,A,A,A,A,SA,SA,D,A,D,SD,SD,A,A,A,A,SA,SA,,yes,D,SD,SD,A,A,SD,A,A,A,SA,SA
+25,single,300,christian,FRANCO,no,20-25years,no,no,yes,free,,no,,,SD,SD,A,A,A,A,D,D,D,A,D,SD,SD,SD,A,D,A,A,D,,yes,SD,D,SD,D,SD,D,SD,D,D,A,SD
+24,single,400,christian,UHAS,no,20-25years,no,no,no,free,,no,,,SA,SD,SD,SA,SA,SA,SA,SA,SA,SD,SA,SA,SA,D,D,SD,SD,D,SA,screening centre,yes,SA,SA,D,SD,D,SA,SD,SA,SA,SA,D
+21,single,300,muslim,MIDWIERY,no,20-25years,no,yes,no,>20gh,,no,,,SD,D,A,A,A,A,SA,SA,D,A,D,SD,SD,D,A,A,A,A,SA,screening centre,yes,D,SD,SD,A,A,SD,A,A,A,SA,SA
+25,single,300,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,yes,,,SA,A,A,SA,A,A,SA,A,A,D,A,A,A,A,D,D,D,A,A,screening centre,,A,SA,A,A,A,A,D,SA,A,A,D
+22,single,200,christian,MIDWIERY,no,20-25years,yes,yes,no,20-50gh,,no,,,A,A,A,SA,SA,A,A,SA,SA,A,A,A,SA,SA,D,D,A,A,A,screening centre,,D,A,A,A,D,A,A,SA,A,SA,A
+21,single,300,christian,FRANCO,no,20-25years,no,yes,no,>50gh,,yes,,,D,D,A,D,D,D,D,D,SD,A,A,A,A,A,A,D,D,A,A,,,A,A,D,A,A,D,A,SD,D,D,D
+22,single,100,christian,TERESCO,no,20-25years,yes,yes,yes,20-50gh,,yes,,,A,A,A,A,A,A,A,A,A,A,A,A,A,SA,A,A,A,A,A,,,D,D,SD,SD,SD,D,SD,SA,SA,SA,SA
+22,single,200,christian,TERESCO,no,20-25years,yes,yes,no,20-50gh,,yes,,,A,A,SD,D,D,D,D,D,D,D,A,A,A,A,A,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+25,single,400,christian,TERESCO,no,20-25years,no,no,no,>20gh,,no,,,D,A,D,D,SA,A,SD,D,D,SD,SD,SA,SA,SA,A,SA,SA,SA,SA,,,SA,SA,SA,SA,SA,SA,A,D,D,D,D
+22,single,100,christian,MIDWIERY,no,20-25years,yes,yes,no,20-50gh,,yes,,,SA,A,A,A,SA,SA,A,A,SA,SA,A,A,A,SA,SA,D,D,A,A,,,D,A,A,A,D,A,A,SA,A,SA,A
+25,single,300,christian,FRANCO,no,20-25years,no,yes,yes,20-50gh,,no,,,D,D,A,SA,A,SA,D,D,A,D,D,A,D,D,D,D,D,A,A,,,D,A,A,A,SD,A,SD,SA,SA,SA,A
+23,single,200,christian,MIDWIERY,no,20-25years,no,no,no,free,,no,,,SA,A,A,A,SA,A,SA,A,A,A,A,D,D,A,A,A,A,A,A,,,D,A,A,A,D,A,D,SA,A,SA,A
+20,single,300,christian,UHAS,no,20-25years,no,no,yes,20-50gh,,no,,,A,A,SD,SA,SA,A,SA,A,SA,D,A,A,SA,A,D,D,D,SA,A,,,SA,SA,D,A,A,A,SD,SA,A,SA,D
+22,single,200,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,yes,>=20gh,,SA,A,A,SA,A,A,SA,A,A,D,A,A,A,A,D,D,D,A,A,,,A,SA,A,A,A,A,D,SA,A,A,D
+22,single,200,christian,MIDWIERY,no,20-25years,no,yes,yes,free,,yes,,,D,A,A,SA,A,A,SA,D,SD,A,A,SA,A,D,D,D,D,A,SD,,,D,D,A,A,SA,SA,SA,SA,SA,SA,D
+24,single,400,christian,TERESCO,no,20-25years,yes,yes,no,20-50gh,,no,,,SD,SD,SD,SD,SD,SD,SD,D,SD,D,D,A,A,SA,A,D,A,D,SA,,,SA,A,D,D,SA,D,SD,SD,SD,SD,SA
+23,single,400,christian,UHAS,no,20-25years,no,yes,no,>50gh,,yes,,,D,SA,SA,D,A,SA,SA,A,SA,A,SA,SA,SA,SA,A,D,D,A,A,,,SA,SA,SA,A,SD,A,SD,SA,D,SA,D
+23,single,100,christian,UHAS,no,20-25years,no,no,no,free,,no,,,A,SD,D,D,A,D,A,D,A,A,A,A,SA,SA,A,D,A,A,A,,,SD,D,A,D,D,D,D,A,D,A,D
+21,single,300,christian,UHAS,no,20-25years,no,yes,yes,free,,no,,,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,A,A,A,D,D,A,SA,SA,SA,SA,SA
+19,single,300,christian,UHAS,no,<20years,no,yes,no,20-50gh,,yes,,,SA,A,A,SA,A,A,SA,A,A,D,A,A,A,A,D,D,D,A,A,,,A,SA,A,A,A,A,D,SA,A,A,D
+22,single,200,christian,MIDWIERY,no,20-25years,no,yes,yes,20-50gh,,yes,,,A,D,SD,SA,A,SA,D,SA,D,SD,A,A,SD,A,D,SD,A,D,A,,,A,D,A,D,SA,D,A,SA,D,A,SD
+21,single,100,christian,MIDWIERY,no,20-25years,no,no,no,20-50gh,,no,,,D,D,A,A,SA,SA,A,A,D,D,D,A,A,D,A,D,D,A,A,,,A,D,A,D,A,A,D,A,A,A,A
+21,single,200,christian,MIDWIERY,no,20-25years,yes,yes,yes,20-50gh,,yes,,,A,D,A,A,A,SA,A,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,A,SA,SA,A,A,D,A,A,SA,SA,SA
+22,single,100,christian,FRANCO,no,20-25years,no,yes,yes,20-50gh,,yes,,,SA,A,A,SA,A,A,SA,A,A,D,A,A,A,A,D,D,D,A,A,,,D,A,D,D,D,SD,A,D,D,D,D
+21,single,100,christian,FRANCO,no,20-25years,no,no,no,free,,no,,,SA,A,D,SA,SA,A,SA,A,A,D,SA,A,A,SA,A,SA,A,SA,SA,,,A,SA,SA,A,A,A,A,A,SA,SA,SD
+22,single,400,christian,TERESCO,no,20-25years,no,yes,yes,20-50gh,,yes,,,SA,A,A,SA,A,A,SA,SA,A,D,A,A,A,A,D,D,D,A,A,,,A,SA,A,A,A,A,D,SA,A,D,D
+22,single,300,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,no,>=20gh,,SA,SD,SD,SD,SD,SD,SD,D,SD,SD,SD,SD,SD,SD,SD,SD,D,SD,SD,,,SD,SA,SD,SD,A,SD,A,SD,D,D,SD
+20,single,100,christian,FRANCO,no,20-25years,no,no,no,free,,no,,,SA,SD,SD,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,SA,SA,D,SD,D,SD,SA,SA,SA,SA,SA
+21,single,100,christian,MIDWIERY,no,20-25years,no,yes,yes,free,,yes,>=20gh,,D,A,A,SA,A,A,SA,D,SD,A,A,SA,A,D,D,D,D,A,SD,,,D,D,A,A,D,SA,SA,SA,SA,SA,D
+21,single,400,christian,FRANCO,no,20-25years,no,yes,yes,>20gh,,yes,,,A,D,A,A,A,A,D,A,A,A,D,A,A,A,A,A,A,A,D,,,A,D,A,A,D,A,A,A,A,A,A
+20,single,100,christian,TERESCO,no,20-25years,no,no,yes,20-50gh,,no,,,SA,A,A,SA,A,A,A,A,A,D,A,A,SA,A,A,D,D,SA,SA,,,A,SA,A,D,D,D,D,A,A,SA,D
+19,single,100,christian,MIDWIERY,no,<20years,no,yes,no,20-50gh,,no,,,SD,SD,SD,D,D,D,SD,D,SD,SD,SD,SD,SD,SD,SD,D,SD,SD,SD,,,SA,SD,SD,D,SA,SD,SD,SD,SD,SD,SD
+23,single,300,christian,FRANCO,no,20-25years,no,no,no,20-50gh,,no,<20gh,,SD,SD,D,A,D,D,D,D,D,A,A,A,SD,SD,SD,D,D,D,SA,,,SD,D,D,SD,D,SD,SD,D,A,SA,SA
+20,single,200,christian,FRANCO,no,20-25years,yes,yes,no,>20gh,,no,,,A,SD,SD,D,A,A,A,D,D,SD,D,SD,D,SD,D,SD,D,D,SA,,,SA,D,SD,SD,SD,SD,D,SD,D,SD,SD
+22,single,200,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,yes,,,SA,A,A,SA,SA,SA,SA,SA,A,D,A,A,A,A,A,D,D,A,A,,,D,SA,SA,SA,A,A,SA,SA,SA,SA,SA
+22,single,300,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,SD,D,D,D,D,SA,SA,SA,SA,SA,A,A,A,A,SA,SA,SD,,,SD,D,SD,D,SD,D,D,D,A,A,SD
+21,single,100,christian,MIDWIERY,no,20-25years,no,yes,no,>20gh,,no,,,D,D,D,D,A,D,A,D,A,A,A,A,A,A,D,D,A,A,A,,,SD,A,A,SD,SD,A,A,A,D,A,D
+21,single,100,christian,UHAS,no,20-25years,no,no,yes,free,,no,>=20gh,,SD,SD,D,D,D,D,SD,D,D,A,D,SD,SD,SD,A,D,D,D,D,,,SD,D,SD,SD,D,D,SD,D,D,SD,SD
+26,single,200,christian,TERESCO,no,>25years,no,yes,no,free,,no,>=20gh,,SD,SD,D,SD,SD,D,SD,SD,D,SD,D,SD,D,D,SD,D,SD,A,SA,,,SD,D,A,SD,D,D,SD,SD,A,SA,D
+24,single,300,christian,UHAS,yes,20-25years,no,yes,yes,20-50gh,three years later,yes,,voluntary,A,D,D,D,D,D,D,D,D,SD,SD,SD,SD,SD,SD,SD,D,SD,D,hospital,no,D,D,D,D,D,D,D,D,D,D,D
+21,single,200,christian,MIDWIERY,no,20-25years,no,no,yes,20-50gh,,no,,,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,A,A,A,D,D,A,SA,SA,SA,SA,SA
+22,single,100,christian,FRANCO,no,20-25years,no,yes,no,free,,no,,,A,SD,SA,SA,SA,SA,SA,SA,A,SA,SA,SA,SA,SA,D,D,D,SA,SA,,,D,SA,D,D,D,D,SD,SD,D,SA,SD
+23,single,200,christian,TERESCO,no,20-25years,yes,yes,no,20-50gh,,no,,,SA,A,A,A,SA,SA,A,A,SA,SA,A,A,A,SA,SA,D,D,A,A,,,D,A,A,A,D,A,A,SA,A,SA,A
+25,single,300,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,no,,,A,A,A,A,A,A,D,D,SD,SD,A,D,SD,SD,SD,A,SA,SA,SA,,,SA,SA,A,A,A,A,A,A,A,A,A
+27,single,400,christian,TERESCO,no,>25years,no,yes,yes,20-50gh,,yes,,,SA,A,A,SA,SA,A,A,D,A,SA,A,A,SA,D,A,SA,D,A,A,,,A,A,A,D,D,A,A,D,D,A,A
+22,single,200,christian,FRANCO,no,20-25years,no,yes,yes,>20gh,,yes,,,SA,A,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,A,A,D,SD,SA,SA,SA,SA,SA,SA,SA
+25,single,400,christian,UHAS,no,20-25years,no,no,yes,20-50gh,,no,,,A,D,SD,SA,SA,SA,SA,SA,A,D,A,A,D,D,A,A,A,A,A,,,A,A,D,D,SA,D,D,A,D,SA,A
+25,single,400,christian,FRANCO,no,20-25years,yes,yes,no,>20gh,,no,,,SA,A,SA,D,D,A,A,SA,SD,SD,D,SA,SA,SA,SA,D,D,SD,SD,,,SD,D,SD,A,A,D,SA,SA,D,A,D
+20,single,200,christian,UHAS,no,20-25years,yes,yes,yes,20-50gh,,yes,,,D,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,D
+19,single,100,christian,TERESCO,yes,<20years,no,yes,no,>20gh,,no,,,D,D,D,D,A,D,A,D,A,A,A,A,A,A,D,D,A,A,A,,,SD,A,A,SD,SD,A,A,A,D,A,D
+22,single,300,christian,MIDWIERY,no,20-25years,yes,no,no,20-50gh,,no,,,A,D,SA,SA,SA,SA,D,SD,SD,D,D,A,SD,A,SD,A,A,A,D,,,SD,SD,SD,SD,SD,SD,SD,SA,SA,SA,SA
+20,single,100,christian,MIDWIERY,yes,20-25years,yes,no,yes,>50gh,one year later,yes,,was recommended,SA,A,D,A,A,SA,SA,D,A,D,D,D,D,A,A,D,A,A,A,hospital,no,D,A,A,A,D,D,D,D,A,D,A
+17,single,100,christian,TERESCO,no,<20years,no,no,no,free,,no,,,SD,SD,SD,SD,SD,SD,SA,D,SD,SA,SA,SA,D,A,A,A,A,A,A,,,A,A,D,SD,D,SD,D,SD,D,D,D
+26,single,300,christian,FRANCO,no,>25years,no,yes,yes,>20gh,,yes,,,D,A,D,SA,SA,SD,SA,A,A,D,A,A,A,SA,A,D,D,D,SA,,,A,SD,A,A,D,D,SD,D,D,D,A
+21,single,200,christian,TERESCO,no,20-25years,no,yes,no,20-50gh,,yes,,,SA,A,SD,A,SA,SA,SA,A,D,SA,D,A,D,D,D,A,SA,SA,SA,,,SA,A,A,A,SA,A,A,SA,SA,SA,SA
+24,single,300,christian,UHAS,no,20-25years,yes,yes,yes,20-50gh,,yes,,,SA,SA,D,SA,SA,SA,SA,SA,D,SA,SA,A,SA,D,A,A,D,A,SA,,,SA,SA,SD,A,SD,A,SD,SA,A,SA,SA
+21,single,100,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,yes,,,D,A,D,A,A,SD,SA,SA,A,A,A,A,A,D,D,SD,A,SA,SA,,,D,A,A,A,D,D,D,A,A,SA,A
+24,single,400,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,D,SD,A,SD,D,SD,D,SD,D,D,D,SD,SD,D,D,D,D,,,SD,SD,SD,SD,D,D,SD,D,D,A,D
+24,single,300,christian,FRANCO,no,20-25years,yes,no,no,20-50gh,,no,,,SA,A,A,A,D,A,A,SA,D,D,D,A,A,SD,SD,SD,SA,SA,SA,,,SA,D,D,A,D,D,D,D,D,D,SA
+26,single,200,christian,TERESCO,yes,>25years,no,no,no,free,,no,,,SA,SD,SD,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,D,D,SD,SD,D,A,,,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA
+25,single,100,christian,TERESCO,no,20-25years,no,yes,yes,20-50gh,,yes,free,,SD,A,A,A,A,A,A,SD,SA,SA,SA,SA,SA,SA,SA,D,SA,D,SA,,,A,A,D,D,A,A,D,D,SA,SA,SA
+23,single,200,christian,MIDWIERY,yes,20-25years,no,no,no,>20gh,three years later,no,,voluntary,A,SA,SD,A,A,A,A,A,D,D,D,D,SD,SD,SD,SD,SD,SD,SD,,no,A,A,D,D,D,D,D,D,D,D,D
+24,single,300,christian,UHAS,no,20-25years,no,yes,yes,>20gh,,yes,,,A,A,A,D,A,A,A,A,A,A,A,A,D,A,A,D,A,A,A,,,A,A,A,A,A,A,A,A,A,A,D
+21,single,100,christian,FRANCO,no,20-25years,no,no,no,free,,no,>=20gh,voluntary,A,SA,D,D,SA,D,D,D,SA,D,D,D,SA,D,D,D,D,D,D,,,D,D,D,D,D,D,D,D,D,SD,SD
+22,single,200,christian,MIDWIERY,no,20-25years,yes,yes,no,20-50gh,,no,,,A,A,D,A,A,A,A,A,A,A,A,A,A,A,D,D,A,A,A,,,D,A,A,A,D,D,D,D,A,D,D
+23,single,100,christian,UHAS,yes,20-25years,yes,yes,yes,20-50gh,one year later,yes,,voluntary,SD,A,A,D,SD,A,A,SA,SA,SA,A,D,A,A,A,SA,SA,SA,A,hospital,no,D,D,SA,A,D,SA,A,A,SA,SA,SA
+21,single,100,christian,FRANCO,no,20-25years,no,yes,no,free,,yes,,,SA,A,A,SA,SA,SA,SA,SA,A,D,A,A,A,A,A,D,D,A,A,,,D,SA,SA,SA,A,A,SA,SA,SA,SA,SA
+23,single,400,christian,FRANCO,no,20-25years,no,yes,no,>20gh,,no,,,SA,A,SD,SA,A,D,A,A,A,D,A,SA,SA,D,A,D,D,A,A,,,D,A,SA,A,D,A,A,A,A,A,SD
+24,single,400,christian,TERESCO,yes,20-25years,no,yes,yes,>50gh,three years later,yes,,voluntary,SD,A,SA,SA,SA,SA,SA,SA,D,A,SA,SA,SA,SA,D,SD,D,D,SD,screening centre,no,SA,SA,D,SA,SD,SD,SD,SD,SD,D,SA
+24,single,400,christian,TERESCO,no,20-25years,no,no,no,free,,no,,,D,D,D,SD,D,SA,SA,SA,SA,SA,A,A,A,SA,A,SA,SA,SA,SD,,,D,D,D,SD,SD,SD,SD,SD,SA,SA,SA
+24,single,400,christian,FRANCO,no,20-25years,no,no,no,free,,no,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+25,single,400,christian,UHAS,no,20-25years,no,no,yes,20-50gh,,no,,,A,D,SD,SA,SA,SA,SA,SA,A,D,A,A,D,D,A,A,A,A,A,,,A,A,D,D,SA,D,D,A,D,SA,A
+25,single,200,christian,UHAS,yes,20-25years,no,yes,yes,free,one year later,yes,,,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,laboratory,no,A,A,A,A,D,D,A,A,A,D,D
+22,single,300,christian,UHAS,yes,20-25years,no,yes,no,free,two years later,no,,was recommended,SA,SA,SA,SA,SA,A,A,A,A,A,SA,SA,SA,A,A,A,SA,SA,SA,hospital,no,A,SA,SA,A,A,A,SA,SA,SA,SA,SA
+20,single,100,christian,FRANCO,no,20-25years,no,yes,no,>20gh,,no,,,A,A,A,A,A,A,A,A,A,SD,A,A,SD,A,SD,A,SD,A,D,,,SA,SA,SA,SA,SD,SA,D,SA,A,SA,SA
+22,single,200,christian,FRANCO,no,20-25years,yes,yes,no,20-50gh,,yes,,,A,A,D,D,A,D,D,D,A,D,D,A,A,A,A,D,D,A,A,,,D,D,A,A,A,SD,A,A,D,A,D
+22,single,300,christian,UHAS,no,20-25years,no,no,no,free,three years later,no,,voluntary,A,SA,SD,A,A,A,A,A,D,D,D,D,SD,SD,SD,SD,SD,SD,SD,screening centre,no,A,A,D,D,D,D,D,D,D,D,D
+26,single,400,christian,FRANCO,no,>25years,yes,yes,yes,20-50gh,,no,,,A,A,D,D,A,D,D,D,A,D,D,A,A,A,A,D,D,A,A,,,D,D,A,A,D,A,SD,A,D,A,D
+24,single,300,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,SD,D,D,D,SD,D,SD,SD,SD,SD,SD,SD,SD,D,SD,SD,SD,,,SA,SD,SD,SA,D,SA,SD,SD,SD,SD,SD
+20,single,300,christian,MIDWIERY,no,20-25years,no,no,no,free,,no,,,SA,SD,SD,SA,SA,SA,SA,SA,SA,SD,SA,SA,SA,SA,D,D,SD,SD,D,,,SA,SA,D,SD,D,SA,SD,SA,SA,SA,D
+23,single,300,christian,MIDWIERY,yes,20-25years,no,yes,yes,>20gh,,yes,,voluntary,SA,SA,SA,SA,SA,SA,SA,SA,SA,D,SA,D,SA,SA,SA,D,D,SA,SA,hospital,yes,SA,SA,D,SD,SA,SA,SA,SA,SA,SA,SA
+20,single,100,christian,FRANCO,no,20-25years,no,yes,no,free,,no,,,SA,SA,SA,SA,SA,A,A,A,A,A,SA,SA,SA,A,A,A,SA,SA,SA,,,A,SA,SA,A,A,A,SA,SA,SA,SA,A
+23,single,200,christian,TERESCO,yes,20-25years,no,yes,yes,20-50gh,three years later,yes,,voluntary,A,A,A,SA,D,D,D,A,SA,A,A,A,A,D,A,A,A,A,A,hospital,no,A,A,A,A,A,SA,A,A,A,D,A
+21,single,100,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,yes,,,A,D,D,A,A,A,A,A,A,D,A,A,A,A,D,D,D,A,A,,,A,A,D,A,D,A,D,A,A,A,A
+26,single,300,christian,FRANCO,no,>25years,no,yes,no,20-50gh,,yes,,,A,D,D,A,A,A,A,A,D,A,A,A,A,A,D,D,A,A,A,,,A,A,D,A,D,A,D,A,A,A,A
+25,single,400,christian,UHAS,yes,20-25years,no,no,no,free,one year later,no,,was recommended,SA,D,D,D,SA,SA,SA,A,D,D,D,D,A,A,SD,D,D,A,A,screening centre,no,A,SA,SD,A,SD,SA,SD,SA,A,SA,D
+20,single,100,christian,TERESCO,no,20-25years,no,yes,yes,20-50gh,,yes,free,,D,SD,D,SD,SD,SD,SD,SA,SA,SA,SA,A,SA,SA,SA,SD,SD,SD,SA,,,A,A,A,A,A,A,A,A,A,SA,SA
+23,single,300,christian,MIDWIERY,no,20-25years,no,no,no,free,,no,,,SA,SA,SA,A,D,SD,A,A,SA,A,A,A,A,A,A,A,A,A,A,,,D,A,A,D,SD,SD,SD,SA,A,SA,D
+24,single,200,christian,UHAS,yes,20-25years,no,yes,no,>20gh,,no,,,A,SD,SD,A,A,D,A,A,A,D,A,A,A,A,D,A,A,A,A,,,D,A,A,A,D,D,D,A,A,A,D
+21,single,100,christian,FRANCO,no,20-25years,no,yes,no,free,,no,,,A,SD,A,A,A,A,A,SD,SD,SD,SD,A,A,A,A,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+27,married,400,christian,FRANCO,no,>25years,no,yes,no,free,,no,>=20gh,,SD,SD,SD,SD,D,D,A,A,D,SD,D,SA,A,D,A,SA,SA,SA,SA,,,SA,SA,SA,A,A,D,SD,SD,A,D,D
+24,single,100,christian,FRANCO,no,20-25years,no,yes,no,20-50gh,one year later,yes,,,A,D,D,A,A,A,A,A,A,D,SD,A,A,A,A,A,D,D,A,,,A,A,A,A,D,D,A,A,A,D,A
+21,single,100,christian,UHAS,no,20-25years,no,yes,yes,>20gh,,yes,,,A,D,A,A,A,D,A,A,A,D,A,A,A,A,A,A,D,A,A,,,A,D,A,A,D,A,A,A,A,A,A
+21,single,100,christian,TERESCO,no,20-25years,yes,yes,no,>20gh,,no,,,A,D,D,A,D,D,D,A,D,A,A,A,D,D,A,A,D,A,D,,,D,A,A,A,A,A,A,A,D,A,A
+24,single,400,christian,TERESCO,no,20-25years,yes,yes,no,20-50gh,,yes,,,SA,A,A,A,A,D,A,D,A,A,A,A,SA,SA,SA,SA,SA,SA,SA,,,D,D,D,A,A,A,A,A,A,A,SA
+24,single,200,christian,MIDWIERY,yes,20-25years,no,yes,no,20-50gh,one year later,no,,was recommended,SA,A,SD,SA,SA,SA,SA,SA,SA,A,SA,SA,SA,SA,SA,D,D,D,SA,clinic/health centre,yes,D,SA,D,D,D,D,SD,SD,D,SA,SD
+22,single,300,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,yes,,,SA,D,A,SA,SA,A,D,A,A,D,SA,A,A,SA,A,SA,A,SA,SA,,,A,SA,SA,A,A,A,A,A,SA,SA,SA
+24,single,400,christian,UHAS,no,20-25years,yes,yes,no,free,,no,,,D,D,A,A,D,SD,SD,A,D,A,A,A,SD,SD,SD,SD,SA,SA,SA,,,D,D,D,D,A,A,A,A,A,D,D
+25,single,400,christian,FRANCO,no,20-25years,yes,yes,no,>20gh,,no,,,D,SD,SA,D,A,A,D,A,A,D,A,A,SD,SD,D,A,D,SA,SA,,,D,A,A,A,A,SD,A,A,SA,SA,SA
+25,single,400,christian,FRANCO,no,20-25years,no,yes,no,free,,no,>=20gh,,SD,D,SD,SA,A,A,A,A,A,A,A,A,A,A,A,D,D,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+27,married,300,christian,MIDWIERY,no,>25years,no,no,no,free,,no,,,SA,A,SA,SA,SA,SA,SA,SA,SA,D,D,D,D,D,D,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+23,single,300,christian,FRANCO,no,20-25years,yes,yes,no,>20gh,,no,,was recommended,D,D,A,D,A,A,A,D,D,A,A,D,A,D,D,A,A,A,A,,,D,A,A,A,A,A,D,D,A,A,D
+20,single,100,christian,UHAS,no,20-25years,no,yes,no,free,,no,,,D,SD,A,D,A,A,A,D,A,D,D,A,D,D,A,D,D,A,A,,,SD,A,A,D,A,D,A,D,SA,A,SD
+19,single,100,christian,MIDWIERY,yes,<20years,no,no,no,>20gh,,no,,,SD,D,A,SD,SA,D,SD,D,SD,SD,SD,D,A,D,D,SA,SD,D,SA,,,SD,SD,D,D,SD,SA,D,A,D,SD,SA
+23,single,100,christian,MIDWIERY,no,20-25years,no,yes,no,>20gh,,no,,,A,A,D,A,A,D,A,A,A,A,A,A,A,A,A,D,D,A,A,,,D,D,D,D,D,D,D,D,A,A,A
+26,single,400,christian,FRANCO,no,>25years,no,yes,no,>20gh,,no,,,A,D,SA,A,A,A,A,A,A,D,A,A,A,A,A,A,A,A,A,,,D,A,A,A,D,D,D,D,A,A,A
+20,single,200,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,no,,,D,D,A,SD,A,D,A,D,A,A,A,D,D,A,A,D,D,D,D,,,A,A,A,D,D,A,D,A,A,SA,A
+19,single,400,christian,TERESCO,no,<20years,yes,yes,no,free,,yes,,,D,D,D,A,A,A,A,D,D,D,D,D,D,SA,SA,SA,SA,SA,A,,,A,A,SA,SA,SA,SA,A,A,SD,SD,SD
+21,single,200,christian,UHAS,no,20-25years,yes,yes,no,20-50gh,,yes,,,SA,A,A,A,A,D,A,D,A,A,A,A,D,SA,SA,D,SA,SA,SA,,,D,D,D,A,A,A,A,A,A,A,D
+23,single,100,christian,UHAS,no,20-25years,yes,yes,no,>20gh,,no,,,SA,A,SA,D,A,A,SA,D,SD,D,SA,SA,SA,SA,D,SD,SD,SD,D,,,SD,A,A,D,SA,D,A,D,A,A,D
+22,single,100,christian,UHAS,yes,20-25years,yes,yes,yes,>50gh,one year later,yes,,voluntary,SD,D,SD,SD,SD,SD,SD,D,SD,SD,SD,SD,SD,SD,SD,D,SD,SD,SD,hospital,yes,SA,A,SA,D,A,A,SA,D,A,SA,SA
+22,single,200,christian,TERESCO,no,20-25years,no,no,no,>20gh,two years later,no,>=20gh,,A,SA,A,A,A,A,A,A,SA,A,A,A,A,A,A,A,A,SA,SA,,,SA,D,A,A,A,A,A,SA,D,A,A
+22,single,100,christian,MIDWIERY,no,20-25years,no,yes,yes,20-50gh,,yes,<20gh,,A,A,A,A,A,A,A,D,A,D,A,A,A,A,A,A,A,A,A,,,A,A,A,D,A,A,A,A,A,A,D
+21,single,100,christian,MIDWIERY,no,20-25years,no,yes,yes,20-50gh,,yes,,,SA,D,A,SA,A,A,A,A,SA,D,A,D,D,D,D,D,A,A,D,,,D,D,SA,A,A,D,A,D,D,SA,SD
+24,single,200,christian,MIDWIERY,no,20-25years,no,yes,yes,20-50gh,,no,,,SA,A,SD,SA,SA,A,A,A,SA,D,A,A,SA,A,D,D,D,SA,A,,,SA,SA,D,A,A,A,SD,SA,A,SA,SA
+22,single,200,christian,MIDWIERY,no,20-25years,no,yes,yes,20-50gh,,yes,,,SA,D,A,SA,SA,A,D,A,A,D,SA,A,A,SA,A,SA,A,SA,SA,,,A,SA,SA,A,A,A,A,A,SA,SA,D
+22,single,200,christian,UHAS,no,20-25years,yes,yes,no,20-50gh,,no,,,A,A,D,A,A,A,A,A,A,A,A,A,A,A,D,D,A,A,A,,,D,A,A,A,D,D,D,D,D,A,D
+22,single,300,christian,FRANCO,no,20-25years,yes,yes,no,>20gh,,no,,,SA,D,A,A,A,D,A,A,D,D,SA,A,A,D,A,D,A,D,SA,,,SA,SA,D,A,A,A,SD,A,A,SA,SA
+23,single,400,christian,FRANCO,no,20-25years,yes,yes,yes,20-50gh,,yes,,,SA,A,A,A,A,A,A,A,D,A,D,D,A,A,D,D,A,A,A,,,D,A,A,A,A,A,A,A,A,A,A
+21,single,100,christian,MIDWIERY,yes,20-25years,yes,yes,yes,free,three years later,yes,,voluntary,A,A,A,A,A,A,SA,D,A,D,A,A,SA,SA,D,D,D,D,A,screening centre,yes,A,A,D,A,A,D,D,D,A,A,D
+19,single,100,christian,FRANCO,no,<20years,no,no,no,free,,no,>=20gh,,A,SD,SD,A,D,A,SD,D,D,A,A,A,A,A,SA,SA,SA,SA,SA,,,SA,D,SA,SA,SA,SA,SD,SA,SA,SA,A
+19,single,100,christian,MIDWIERY,no,<20years,no,no,no,>20gh,three years later,no,,,A,SD,A,A,SA,SA,SA,D,SA,SD,D,A,A,D,A,D,D,A,A,,,A,D,A,D,A,A,D,D,A,A,A
+22,single,300,christian,TERESCO,no,20-25years,no,yes,yes,20-50gh,three years later,yes,,,SA,A,A,A,D,SA,SA,A,D,SA,SA,A,A,SA,SA,A,SA,SA,A,,,A,A,D,A,D,A,A,SA,SA,A,SA
+22,single,100,christian,MIDWIERY,no,20-25years,yes,yes,no,20-50gh,,yes,,,SD,A,D,D,A,A,SA,A,SD,SD,SD,SD,SD,SD,D,D,D,D,A,,,SD,SA,A,A,SD,A,SD,SD,A,SA,D
+21,single,200,christian,MIDWIERY,yes,20-25years,yes,yes,yes,free,three years later,yes,,voluntary,SD,D,SD,SD,SA,A,SA,SA,A,D,A,D,A,D,D,A,D,A,D,screening centre,no,A,SA,SA,SA,SA,A,SA,SA,SA,SA,D
+20,single,300,christian,TERESCO,no,20-25years,no,yes,no,20-50gh,,yes,>=20gh,,A,A,D,SD,A,A,SA,A,A,D,D,A,SA,A,D,A,SA,SA,SA,,,SA,SA,SA,SA,SA,SA,A,A,D,D,A
+26,single,400,christian,TERESCO,no,>25years,no,no,no,>20gh,,no,,,D,D,A,D,A,A,A,D,D,A,A,D,A,D,D,A,A,A,A,,,D,A,A,A,A,A,D,D,A,A,D
+20,single,100,christian,TERESCO,yes,20-25years,no,no,no,free,three years later,yes,,was recommended,A,A,A,A,SA,A,SA,SA,A,D,A,A,SA,A,A,A,A,A,SA,screening centre,yes,D,A,A,A,D,A,D,A,A,SA,A
+24,single,100,christian,MIDWIERY,no,20-25years,no,no,no,free,one year later,no,,,A,SD,D,D,A,D,A,D,A,A,A,A,SA,SA,A,D,A,A,A,,,SD,D,A,D,D,D,D,A,D,A,D
+25,single,300,christian,MIDWIERY,no,20-25years,no,no,no,free,,no,,,SA,A,SD,SA,A,D,SA,D,A,SD,A,A,D,A,D,D,D,D,A,,,A,A,A,D,D,D,A,D,A,SA,D
+23,single,300,christian,MIDWIERY,no,20-25years,no,yes,no,>20gh,,no,,,D,D,D,D,A,D,A,D,A,A,A,A,A,A,D,D,A,A,A,,,SD,A,A,SD,SD,A,A,A,D,A,D
+24,single,100,christian,UHAS,no,20-25years,yes,yes,no,>20gh,two years later,no,,,D,D,D,A,A,D,SA,D,A,SA,D,A,A,D,SA,SA,SA,A,D,,no,SD,D,A,SA,SD,D,SD,SD,A,A,D
+21,single,100,christian,MIDWIERY,yes,20-25years,yes,yes,yes,free,three years later,yes,,voluntary,SD,D,SD,SD,SA,A,SA,SA,A,D,D,A,D,D,D,D,D,A,SA,screening centre,no,SA,SA,SD,SA,A,SA,SA,SA,SA,SA,D
+24,single,400,christian,TERESCO,no,20-25years,yes,yes,yes,20-50gh,,yes,,,SA,SA,SA,SA,SA,SA,SA,SA,SA,A,A,SA,SA,SA,A,A,A,SA,A,,,A,SA,A,SA,SA,A,SA,SA,A,A,A
+22,single,100,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,yes,,,D,D,A,SA,D,SA,D,D,A,D,D,A,D,D,D,D,D,A,A,,,D,A,D,D,D,A,A,A,A,A,A
+19,married,200,christian,UHAS,no,<20years,yes,yes,no,20-50gh,,yes,,,A,A,D,D,A,D,D,D,A,D,D,A,A,A,A,D,D,A,A,,,D,D,A,A,D,A,SD,A,D,A,D
+22,single,100,christian,MIDWIERY,yes,20-25years,no,yes,yes,>20gh,one year later,no,,voluntary,SA,SA,SA,SA,SA,SA,SA,SA,SA,SD,SA,D,SA,A,D,A,A,SA,SA,screening centre,yes,SA,SA,D,SA,D,SA,A,SA,SA,SA,SA
+20,single,200,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,no,,,SA,SA,SA,D,D,D,SA,D,SA,SD,A,SA,SA,A,A,D,A,SA,SA,,,SD,SA,A,D,D,A,A,A,SA,A,SA
+24,single,200,christian,TERESCO,no,20-25years,no,yes,yes,>20gh,,yes,,,SA,A,SA,SA,SA,SA,SA,SA,SA,D,SA,D,SA,SA,SA,D,D,SA,SA,,,SA,SA,D,SA,SD,SA,SA,SA,SA,SA,SA
+25,single,400,christian,UHAS,no,20-25years,no,no,no,free,,no,,,SA,A,D,D,D,A,A,SD,SD,A,D,D,SA,D,SA,A,SD,D,A,,no,A,SD,A,SA,SA,D,A,SD,SD,SD,D
+24,single,300,christian,MIDWIERY,no,20-25years,no,no,no,>50gh,one year later,no,>=20gh,,SA,A,SA,SA,SA,A,A,A,SA,A,A,SA,A,SD,SD,SD,D,SA,D,,,SD,D,D,D,D,SD,SD,A,A,D,SD
+25,single,400,christian,UHAS,no,20-25years,no,no,no,free,,no,>=20gh,voluntary,SA,A,SD,SA,A,D,SA,D,A,SD,A,D,A,D,D,D,D,A,D,,,A,A,A,D,D,D,A,D,A,SA,D
+21,single,200,christian,MIDWIERY,yes,20-25years,yes,yes,yes,20-50gh,,yes,,was recommended,A,A,A,A,A,A,SA,D,A,D,A,A,SA,SA,D,D,D,D,A,screening centre,no,A,D,A,SA,SA,D,D,D,D,A,A
+22,single,200,christian,MIDWIERY,no,20-25years,yes,no,no,20-50gh,,yes,free,was recommended,A,SD,A,A,SA,SA,SA,D,SA,SA,SD,SA,D,SA,D,A,D,SA,D,,,A,D,SA,D,SA,SA,D,A,D,SA,A
+20,single,100,christian,FRANCO,no,20-25years,no,yes,no,free,,yes,,,SA,A,D,A,A,A,SA,A,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,A,SA,SA,A,A,D,A,A,SA,SA,SA
+25,single,400,christian,UHAS,yes,20-25years,no,no,no,free,three years later,yes,,was recommended,A,A,A,A,SA,A,SA,SA,A,D,A,A,SA,A,A,A,A,A,SA,screening centre,yes,D,A,A,A,D,A,D,A,A,SA,A
+23,single,200,christian,FRANCO,yes,20-25years,yes,yes,yes,>50gh,two years later,yes,,voluntary,SD,D,SD,SD,SD,SD,SD,D,SD,SD,SD,SD,SD,SD,SD,D,D,D,D,hospital,yes,SA,A,SA,A,D,A,A,SA,D,A,SA
+25,single,400,christian,TERESCO,no,20-25years,no,no,yes,20-50gh,,yes,,,A,D,A,A,D,A,D,A,D,A,SA,SA,SA,A,SA,SA,D,SA,A,,,SA,SA,A,D,SA,D,SA,D,SA,A,SA
+25,single,300,christian,FRANCO,no,20-25years,yes,yes,no,>20gh,,no,>=20gh,,SA,A,SA,D,A,A,SA,SD,SD,D,SA,SA,SA,A,A,D,D,D,A,,,SD,A,A,D,SA,D,A,D,A,A,D
+21,single,200,christian,MIDWIERY,no,20-25years,no,yes,no,>20gh,,no,,,SD,SD,A,A,A,A,A,SA,A,D,A,A,SA,D,D,D,A,A,A,,,D,A,A,D,D,D,SD,A,SA,SA,D
+27,single,300,christian,MIDWIERY,no,>25years,no,no,no,free,,no,,,SA,A,A,A,SA,A,SA,A,A,A,A,D,D,A,A,A,A,A,A,,,D,A,A,A,D,A,D,A,D,A,A
+21,single,200,christian,FRANCO,no,20-25years,no,no,no,free,,no,,,D,D,D,D,D,SD,SD,SD,SD,SD,SD,SD,SD,A,D,A,A,D,D,,,A,A,SD,D,SD,D,D,SD,D,SD,SA
+24,single,200,christian,MIDWIERY,no,20-25years,yes,yes,yes,20-50gh,,yes,,,SA,SA,D,SA,SA,SA,SA,SA,D,SA,A,SA,D,A,A,D,A,SA,SA,,,SA,SA,SD,A,SD,A,SD,SA,A,SA,A
+25,single,300,christian,FRANCO,no,20-25years,yes,yes,no,20-50gh,,no,>=20gh,,A,A,A,SA,A,A,D,A,A,A,A,A,SA,SA,SA,SA,A,A,SA,,,D,D,A,A,A,A,SA,SA,A,SA,A
+20,single,100,christian,UHAS,no,20-25years,yes,yes,no,>20gh,,no,free,,A,SD,SD,D,A,A,A,D,D,SD,D,SD,D,SD,D,SD,SD,D,D,,,SA,SA,D,SD,SD,SD,SD,D,SD,A,SD
+24,single,200,christian,FRANCO,no,20-25years,no,no,no,20-50gh,,no,,,SD,SD,D,A,D,D,D,SD,D,D,SA,SA,SA,SA,SA,A,A,A,A,,,A,SD,SD,SD,D,A,SD,D,A,A,A
+25,single,400,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,yes,,,SD,A,A,A,A,A,A,D,A,A,A,A,A,A,A,D,A,D,A,,,A,A,D,A,A,D,D,SA,SA,SA,D
+19,single,100,christian,TERESCO,no,<20years,no,yes,yes,20-50gh,,yes,,,SD,A,A,A,A,A,A,D,A,A,A,A,A,A,A,D,A,D,A,,,A,A,D,A,A,D,D,SA,SA,SA,D
+26,single,400,christian,TERESCO,no,>25years,no,no,no,>20gh,,no,,,D,D,D,A,D,D,SD,A,A,D,D,SD,A,SA,D,D,SD,A,SA,,,D,SD,A,SA,D,A,SA,D,SA,D,SA
+21,single,100,christian,TERESCO,no,20-25years,no,no,no,free,,no,,,D,SD,D,D,D,D,D,SD,D,A,A,A,A,A,A,A,SD,D,SD,,,SD,SA,SA,SA,A,SA,SA,SA,A,SA,SA
+22,single,200,christian,TERESCO,no,20-25years,yes,yes,no,>20gh,,no,,,SA,D,D,SA,SA,A,A,A,SD,SD,SD,SD,SD,SD,SD,SD,SD,SD,SD,,,D,SA,SA,D,D,SA,SA,SA,SA,SA,SA
+22,single,200,christian,TERESCO,no,20-25years,no,yes,yes,free,,yes,,,D,A,A,SA,A,A,SA,D,SD,A,A,SA,A,D,D,D,A,SD,SD,,,D,D,A,A,D,SA,SA,SA,SA,SA,A
+25,single,400,christian,UHAS,no,20-25years,no,yes,no,free,,no,,,SA,SA,A,D,D,D,A,D,SD,D,A,A,A,A,A,D,A,SA,A,,,D,A,D,D,SD,SD,SD,D,SA,SA,SA
+24,single,200,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,D,SD,A,SD,D,SD,D,SD,D,D,D,SD,SD,D,D,D,D,,,SD,SD,SD,SD,D,SD,D,D,D,A,D
+21,single,100,christian,UHAS,no,20-25years,no,yes,yes,>20gh,,yes,,,D,A,D,SA,SA,SD,SA,A,A,D,A,A,A,SA,A,D,D,D,SA,,,A,SD,A,A,D,D,SD,D,SA,SA,A
+21,single,100,christian,TERESCO,no,20-25years,no,no,yes,20-50gh,,no,>=20gh,,SA,A,A,SA,A,A,A,A,A,D,A,A,SA,D,D,SD,SD,D,D,,,A,SA,A,D,D,D,D,SD,SD,SA,SD
+23,single,300,christian,MIDWIERY,no,20-25years,no,no,yes,>20gh,,no,,,A,A,D,A,A,D,A,A,A,A,A,A,A,A,A,D,D,A,A,,,D,D,D,D,D,D,D,D,A,A,A
+22,single,300,christian,UHAS,no,20-25years,yes,yes,yes,20-50gh,,yes,free,,SA,A,D,A,A,A,SA,A,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,A,SA,SA,A,A,D,A,A,SA,SA,SA
+21,single,200,christian,TERESCO,no,20-25years,yes,yes,no,20-50gh,,yes,,,SA,A,D,A,A,A,SA,A,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,A,SA,SA,A,A,D,A,A,SA,SA,SA
+26,single,300,christian,FRANCO,no,>25years,no,no,yes,free,,no,>=20gh,,SD,D,SD,D,SD,SD,D,SD,D,SD,D,SD,SD,D,SD,D,SD,D,D,,,SD,D,SD,D,A,D,A,D,D,A,SD
+21,single,100,christian,MIDWIERY,no,20-25years,no,yes,no,>20gh,,no,,,SD,SD,A,A,A,A,A,SA,A,D,A,A,SA,D,D,D,A,A,A,,,D,A,A,D,D,D,SD,A,SA,SA,D
+20,single,200,christian,FRANCO,no,20-25years,no,yes,no,20-50gh,,no,,,SD,D,SD,SA,A,D,D,A,A,A,A,A,A,A,D,D,A,A,A,,,A,A,A,D,A,A,A,A,A,A,D
+24,single,300,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,no,,,SA,A,SD,SA,SA,SA,A,A,SA,D,D,A,SA,A,D,D,D,SA,A,,,SA,SA,D,A,A,A,SD,SA,A,SA,A
+22,single,400,christian,FRANCO,no,20-25years,yes,yes,no,20-50gh,,yes,,,A,A,D,SD,D,SA,SA,A,A,SA,A,D,SA,A,D,A,SA,D,A,,,SA,SA,SA,SA,A,SA,SA,A,A,A,A
+23,single,300,christian,FRANCO,no,20-25years,no,yes,no,>20gh,,no,,,A,D,SA,A,A,A,A,A,A,D,A,A,A,A,A,A,A,A,A,,,D,A,A,A,D,D,D,D,A,A,A
+18,single,100,christian,FRANCO,yes,<20years,no,no,no,free,,no,,,A,SA,SD,A,A,A,A,D,D,D,D,SD,SD,SD,SD,SD,SD,SD,SD,,,A,A,D,D,D,D,D,D,D,D,D
+22,single,300,muslim,MIDWIERY,no,20-25years,no,no,no,free,,no,>=20gh,voluntary,SA,A,D,D,A,A,A,A,D,SA,SA,SA,SA,SA,SD,SD,D,D,D,,,D,D,D,D,D,D,D,D,D,A,A
+21,single,100,christian,FRANCO,no,20-25years,no,no,no,free,,no,,,A,A,A,A,A,A,SA,D,A,D,A,SA,SA,D,D,D,D,A,A,,,A,A,D,A,A,D,D,D,A,A,D
+22,single,300,christian,TERESCO,no,20-25years,no,yes,no,free,three years later,no,,,A,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,D,SA,D,D,D,SD,SD,D,A,SD,SD
+24,single,400,christian,UHAS,no,20-25years,no,no,no,20-50gh,,yes,,,A,SA,SD,SA,SA,D,SA,D,A,D,A,SA,SA,SA,A,D,D,SA,SA,,,SA,SA,D,A,SD,A,SD,SA,A,SD,A
+23,single,300,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,yes,free,,SA,A,D,A,SA,SA,SA,A,A,D,A,D,D,A,D,D,D,A,A,,,SA,SA,SA,D,D,SD,SD,SA,A,SA,D
+23,single,300,christian,TERESCO,no,20-25years,no,no,no,free,,no,,,SA,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+19,single,100,christian,TERESCO,no,<20years,no,yes,yes,>50gh,,no,,,D,SD,A,SD,D,A,SD,D,D,D,D,SD,SD,SD,A,SD,D,SD,D,,,SD,SD,SD,SD,SD,SD,SD,D,D,D,SD
+20,single,100,christian,TERESCO,no,20-25years,no,no,no,free,,no,,,D,SD,SA,D,D,A,A,D,A,D,D,D,D,SD,D,SD,D,D,A,,,A,D,D,A,A,D,A,D,SA,A,SA
+24,single,400,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,no,>=20gh,,SD,SD,D,SD,A,SD,D,SD,D,SD,D,D,D,SD,SD,D,D,D,D,,,SD,SD,SD,SD,D,D,SD,D,D,A,D
+25,single,400,christian,UHAS,yes,20-25years,no,no,no,free,three years later,no,,was recommended,SA,D,D,D,SA,SA,SA,A,D,D,D,D,A,A,SD,D,D,A,A,screening centre,no,A,SA,SD,A,SD,SA,SD,SA,A,SA,D
+23,single,300,christian,MIDWIERY,no,20-25years,yes,yes,no,>20gh,,no,,,SA,A,A,SD,SD,SD,SD,D,SA,SD,D,D,SA,SD,SD,D,D,D,D,,,D,D,D,D,A,A,A,A,SA,SA,SA
+21,single,100,christian,MIDWIERY,no,20-25years,no,yes,yes,>50gh,,yes,,,SD,SA,SA,D,SA,SA,SA,D,A,D,D,A,A,A,SA,D,D,D,SA,,,SA,A,SA,SA,D,SA,D,SA,SA,SA,D
+26,single,200,christian,TERESCO,yes,>25years,no,yes,yes,20-50gh,,yes,>=20gh,,A,A,A,A,A,A,D,D,A,A,D,D,A,A,SA,SA,A,A,D,,,D,A,SA,A,D,SA,SA,D,D,A,SA
+22,single,200,christian,UHAS,no,20-25years,no,no,yes,free,,no,,,SD,D,SD,D,SD,SD,D,SD,D,SD,D,SD,SD,D,SD,D,SD,D,D,,,SD,D,SD,D,A,D,A,D,D,A,D
+25,single,400,christian,TERESCO,no,20-25years,no,yes,no,20-50gh,,yes,,,D,A,D,A,A,SD,SA,SA,A,A,A,A,A,D,D,SD,A,SA,SA,,,D,A,A,A,D,D,D,A,A,SA,A
+19,single,100,christian,TERESCO,no,<20years,yes,no,yes,20-50gh,,yes,,,D,D,A,D,SA,A,SA,D,D,D,D,D,A,A,A,A,A,A,A,,,D,A,A,A,A,SD,A,SD,SA,SA,D
+24,single,400,christian,UHAS,no,20-25years,no,yes,no,>50gh,,yes,>=20gh,voluntary,A,SA,SA,D,A,SA,SA,A,SA,A,SA,SA,SA,SA,A,D,D,A,A,,,SA,SA,SA,A,SD,A,SD,SA,D,SA,D
+22,single,200,christian,TERESCO,no,20-25years,no,no,no,free,,no,,,A,SA,SD,A,A,A,A,A,D,D,D,D,SD,SD,SD,SD,SD,SD,SD,,,A,A,D,D,D,D,D,D,D,A,A
+20,single,100,christian,MIDWIERY,no,20-25years,no,no,yes,20-50gh,,yes,,,SA,D,A,D,SA,SA,A,A,A,A,SA,A,D,A,D,D,A,A,A,,,A,A,D,A,A,D,D,D,A,D,A
+22,single,100,christian,UHAS,no,20-25years,yes,yes,no,>20gh,,yes,,was recommended,SA,D,A,A,A,D,A,A,SA,D,D,A,A,D,A,D,A,A,A,,,SA,A,A,A,D,A,A,A,A,A,A
+23,single,300,christian,UHAS,no,20-25years,no,no,no,free,,no,>=20gh,,SA,SA,SA,A,D,SD,A,A,SA,A,A,A,A,A,A,A,A,A,A,,,D,A,A,D,SD,SD,SD,SA,A,SA,SA
+25,single,200,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,no,,,SD,D,SD,SA,A,D,A,A,A,A,A,A,A,A,A,D,D,A,A,,,A,A,A,A,A,D,A,A,A,A,SA
+25,single,400,christian,FRANCO,no,20-25years,no,no,yes,free,,no,<20gh,,A,D,A,A,D,SD,SD,SD,SD,SD,SD,SD,A,A,A,A,D,A,D,,,D,D,A,D,D,D,A,D,A,D,D
+23,single,100,muslim,MIDWIERY,no,20-25years,yes,no,yes,free,,no,,,SA,SA,D,SA,D,D,SA,A,SA,SA,SA,SA,SA,A,A,SA,SA,SA,A,,,SD,D,A,A,D,SA,A,SA,SA,SA,A
+21,single,200,christian,FRANCO,no,20-25years,yes,yes,no,20-50gh,,no,,,D,D,A,A,D,A,A,A,D,D,A,A,D,A,A,A,D,A,A,,,D,D,A,A,A,SD,D,A,A,A,D
+22,single,100,christian,MIDWIERY,yes,20-25years,no,yes,yes,free,three years later,yes,,voluntary,SA,A,A,SA,SA,SA,SA,SA,SA,A,SA,SA,SA,SA,SA,A,SA,SA,SA,screening centre,yes,SD,SA,SD,SA,SA,SA,SD,SD,SA,SA,D
+24,single,300,christian,FRANCO,no,20-25years,no,yes,yes,>20gh,,yes,,,A,D,A,A,A,D,A,A,A,D,A,A,A,A,A,A,D,A,A,,,A,D,A,A,D,A,A,A,A,A,A
+22,single,400,christian,FRANCO,no,20-25years,no,no,no,20-50gh,,yes,,,SA,D,A,SA,A,D,A,SA,A,D,A,A,A,A,SA,A,A,A,D,,,A,A,A,A,A,A,A,A,A,A,A
+24,single,400,christian,TERESCO,no,20-25years,no,yes,yes,20-50gh,,yes,,,A,A,A,A,SD,A,A,SA,A,SA,A,SA,SA,A,A,A,A,A,SA,,,SA,SA,SA,SA,SA,A,SA,SA,A,D,SA
+24,single,400,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,yes,,,A,A,A,A,A,SD,A,D,SA,A,SA,A,SA,SA,A,A,A,A,A,,,A,SA,SA,A,A,A,SA,SA,A,SA,A
+23,single,400,christian,UHAS,yes,20-25years,no,yes,yes,>20gh,three years later,yes,,voluntary,SA,A,SA,SA,SA,SA,SA,SA,SA,D,SA,D,SA,SA,SA,D,D,SA,SA,hospital,no,SA,SA,D,SA,SD,SA,SA,SA,SA,SA,SA
+22,single,200,christian,FRANCO,yes,20-25years,no,yes,yes,free,two years later,yes,,voluntary,SA,A,SD,SA,A,D,D,D,A,A,A,A,A,D,A,D,D,A,A,screening centre,no,D,D,A,A,A,D,D,D,D,D,SA
+23,single,100,christian,UHAS,no,20-25years,yes,no,no,20-50gh,,no,,,SA,D,SA,SA,SA,A,SA,D,A,D,SA,SA,A,D,D,A,SA,SA,SA,,,SD,A,A,D,D,D,SD,A,A,A,SD
+19,single,200,christian,UHAS,no,<20years,no,yes,no,20-50gh,,no,,,A,D,A,A,A,A,SA,A,A,D,A,A,SA,SA,A,A,SA,SA,SA,,,SD,A,SD,A,SD,A,A,SA,A,SA,A
+24,single,400,christian,UHAS,no,20-25years,no,yes,no,>50gh,,yes,,,A,SA,SA,D,A,SA,SA,A,SA,A,SA,SA,SA,SA,A,D,D,A,A,,,SA,SA,SA,A,SD,A,SD,SA,D,SA,D
+20,single,300,christian,FRANCO,no,20-25years,no,yes,no,>50gh,,no,,,A,D,SA,A,A,A,A,A,A,D,A,A,A,A,A,A,A,A,A,,,D,SA,SA,SA,D,D,D,SA,D,D,SD
+21,single,300,christian,TERESCO,no,20-25years,no,yes,no,free,,no,,,D,SA,SD,D,SD,D,SD,SA,SD,D,D,D,D,D,SA,SA,SA,SA,SA,,,D,D,SA,SA,SA,SA,D,D,A,D,D
+21,single,300,christian,FRANCO,no,20-25years,no,yes,yes,>20gh,,yes,,,D,A,D,SA,SA,SD,SA,A,A,D,A,A,A,SA,A,D,D,D,SA,,,A,SD,A,A,D,D,SD,D,A,A,A
+21,single,200,christian,UHAS,no,20-25years,yes,yes,no,20-50gh,,yes,,,A,A,D,D,A,D,D,D,A,D,D,A,A,A,A,D,A,A,A,,,D,D,A,A,D,A,SD,A,D,A,D
+22,single,200,christian,TERESCO,no,20-25years,no,no,yes,20-50gh,,yes,,,SA,D,A,A,D,SD,D,D,A,D,D,SD,A,SA,A,A,A,A,D,,,SD,A,SA,D,D,SD,A,A,D,A,SA
+22,single,200,christian,MIDWIERY,no,20-25years,yes,yes,no,20-50gh,,no,,,D,D,D,A,A,D,SA,D,A,SA,D,A,A,D,SA,SA,SA,A,D,,,SD,D,A,SA,SD,D,SD,SD,A,A,D
+25,single,200,christian,TERESCO,no,20-25years,no,no,yes,20-50gh,,yes,,,A,A,A,A,A,A,SA,A,A,D,A,A,SA,A,A,D,SA,A,D,,,A,SA,SA,A,A,SA,SA,A,SA,SA,A
+27,single,200,christian,UHAS,yes,>25years,no,yes,no,free,three years later,no,,was recommended,SA,A,SD,SA,SA,SA,SA,SA,SA,A,SA,SA,SA,SA,SA,D,D,D,SA,clinic/health centre,yes,D,SA,D,D,D,D,SD,SD,D,SA,SD
+22,single,200,muslim,FRANCO,yes,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,SD,SD,D,D,D,D,SD,SD,SD,SD,SD,D,SD,D,D,D,SD,,,A,A,A,A,A,SA,A,SA,A,SA,A
+26,single,300,christian,FRANCO,yes,>25years,yes,no,no,20-50gh,,no,,,SA,D,SA,SA,SA,A,SA,D,A,D,SA,SA,A,D,D,A,SA,SA,SA,,,SD,A,A,D,SD,D,SD,A,A,A,SD
+23,single,100,christian,UHAS,no,20-25years,no,no,no,free,,yes,,,A,SD,D,A,A,A,A,D,SD,SD,A,A,D,D,SD,D,D,D,A,,,SD,D,D,D,A,A,A,D,A,A,A
+22,single,200,christian,UHAS,no,20-25years,no,yes,no,>20gh,,no,,,SA,A,SD,SA,A,D,A,A,D,A,SA,SA,D,A,D,D,A,A,A,,,D,A,SA,A,D,A,A,A,A,A,A
+20,single,200,christian,TERESCO,no,20-25years,no,yes,yes,>20gh,,yes,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+23,single,200,christian,TERESCO,no,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,SD,D,D,D,SD,D,SD,SD,SD,SD,SD,SD,SD,D,SD,SD,SD,,,SA,SD,SD,D,SA,SD,SD,SD,SD,SD,SD
+22,single,300,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,yes,>=20gh,voluntary,D,D,A,SD,A,SD,SD,D,SD,SD,D,SD,SD,SD,D,A,A,D,SD,,,D,SD,D,SD,D,SD,SD,D,SD,D,SD
+26,single,400,christian,TERESCO,no,>25years,no,no,no,>20gh,,no,,,A,D,D,A,A,SA,D,D,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,D,,,D,SA,SA,SA,SA,SD,SD,SD,SD,SD,A
+24,single,400,christian,UHAS,no,20-25years,yes,yes,no,free,,no,,,D,D,A,A,D,SD,SD,A,D,A,A,A,SD,SD,SD,SD,SA,SA,SA,,,D,D,D,D,A,A,A,A,A,D,D
+25,single,400,christian,UHAS,no,20-25years,no,no,no,free,,no,>=20gh,,SA,A,SD,SA,A,D,SA,D,A,SD,A,D,A,D,D,D,D,A,D,,,A,A,A,D,D,D,A,D,A,SA,D
+24,single,300,christian,MIDWIERY,no,20-25years,no,yes,no,20-50gh,,yes,,,SA,A,A,SA,A,A,SA,A,A,D,A,A,A,A,D,D,D,A,A,,,A,SA,A,A,A,A,D,A,D,D,D
+19,single,100,christian,MIDWIERY,yes,<20years,no,yes,no,free,two years later,no,,,SA,SA,D,SA,D,D,SA,A,SA,SA,SA,SA,SA,SA,A,A,SA,SA,SA,,,SD,D,A,A,D,SA,A,SA,SA,SA,A
+27,married,300,christian,MIDWIERY,no,>25years,yes,yes,no,20-50gh,,no,,,SD,SA,SD,D,A,SA,SD,D,SA,D,D,D,SA,SA,A,SA,SA,SA,D,,,D,SA,SA,A,A,A,D,D,D,SD,A
+25,single,400,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,yes,,,SD,A,A,A,A,A,A,D,A,A,A,A,A,A,A,D,A,D,A,,,A,A,D,A,A,D,D,SA,SA,SA,D
+22,single,200,christian,FRANCO,no,20-25years,no,no,no,free,,no,>=20gh,,SA,A,SD,A,D,D,A,SA,SA,SA,SA,SA,D,A,D,D,A,A,A,,,A,A,A,D,D,D,A,D,A,D,D
+22,single,200,christian,UHAS,no,20-25years,no,yes,yes,>50gh,,no,,,D,D,D,SA,SA,SA,SA,A,D,D,D,D,SA,D,D,D,D,D,D,,,A,D,D,A,A,A,D,D,SA,SA,A
+32,married,200,christian,TERESCO,yes,>25years,no,no,no,free,,no,,was recommended,A,SD,A,A,D,A,A,D,A,A,A,A,A,A,A,A,A,A,A,,,D,A,D,D,D,D,D,A,D,D,A
+25,single,400,christian,UHAS,no,20-25years,no,no,no,free,,no,,,SA,SA,A,SA,A,D,SA,SA,A,D,A,A,A,SA,A,D,A,A,SA,,,A,A,SA,SA,A,A,SA,SA,A,A,SA
+27,single,200,christian,TERESCO,no,>25years,no,yes,no,free,,no,>=20gh,,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA
+21,single,100,christian,MIDWIERY,no,20-25years,yes,yes,no,>20gh,,no,>=20gh,voluntary,SD,A,SA,A,D,D,A,A,SD,A,SA,A,A,D,D,SA,D,A,A,,,D,A,A,D,D,SA,SD,A,SA,D,D
+23,single,400,christian,UHAS,yes,20-25years,no,yes,yes,>20gh,,yes,,voluntary,SA,A,SA,SA,SA,SA,SA,SA,SA,D,SA,D,SA,SA,SA,D,D,SA,SA,hospital,no,SA,SA,D,SA,SD,SA,SA,SA,SA,SA,SA
+22,single,200,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,no,,,SA,SA,D,A,A,A,A,SA,D,A,D,D,A,A,A,A,A,A,A,,,A,A,A,A,D,A,D,A,A,A,A
+25,single,300,christian,TERESCO,no,20-25years,no,yes,yes,>20gh,,yes,,,A,SD,A,A,A,A,A,SD,SD,SD,SD,A,A,A,A,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+21,single,100,christian,TERESCO,no,20-25years,no,no,no,free,,no,,,D,D,D,SD,SD,D,SD,SD,D,A,SA,A,D,A,SA,SA,SA,SA,SA,,,D,D,SD,SA,SA,SA,D,D,A,D,SD
+22,single,100,christian,FRANCO,no,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,D,SD,A,SD,D,SD,D,SD,D,D,D,SD,SD,D,D,D,D,,,SD,SD,SD,SD,D,D,SD,D,D,D,SD
+20,single,400,christian,TERESCO,no,20-25years,no,yes,no,free,,no,,,D,SD,SA,D,A,A,D,A,D,A,D,A,D,D,A,A,D,D,D,,,A,A,D,A,D,A,D,A,D,A,D
+24,single,200,christian,TERESCO,no,20-25years,no,yes,yes,20-50gh,two years later,no,>=20gh,,A,D,D,D,D,A,SD,A,A,SA,SA,A,A,A,D,A,SA,SA,SA,,,A,A,D,A,SA,A,D,D,A,D,D
+23,single,200,christian,MIDWIERY,no,20-25years,no,no,no,free,,no,,,A,SD,SD,D,A,SA,A,A,A,A,A,A,A,A,A,A,A,A,A,,,A,A,D,D,D,A,SA,SA,SA,D,D
+19,single,200,christian,UHAS,no,<20years,no,no,no,free,,no,,,A,SD,SD,D,A,SA,A,A,A,A,A,A,A,A,A,A,A,A,A,,,A,A,D,D,D,A,SA,SA,SA,D,D
+27,single,400,christian,FRANCO,no,>25years,no,no,no,free,,no,,,A,D,A,SD,SD,SD,SD,SA,SA,SA,SA,SA,SA,SA,SA,D,SD,SA,SA,,,D,D,SD,SD,SD,SD,SD,SD,SD,SD,D
+23,single,200,christian,MIDWIERY,no,20-25years,no,no,no,free,,no,>=20gh,,A,SD,D,D,A,D,A,D,A,A,A,A,SA,SA,A,D,A,A,A,,,SD,D,A,D,D,D,D,A,D,A,D
+24,single,200,christian,MIDWIERY,yes,20-25years,no,no,yes,free,three years later,no,,voluntary,A,A,D,A,SA,D,SA,SA,A,D,D,A,A,A,SA,D,D,SA,SA,hospital,yes,SA,SA,D,D,D,A,D,SA,A,SA,A
+24,single,400,christian,FRANCO,no,20-25years,no,no,no,free,,no,,,A,A,A,A,A,A,A,A,SA,A,D,A,A,A,A,SA,A,D,A,,,D,D,D,D,A,D,A,A,A,A,SA
+21,single,100,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,no,,,SD,SD,D,A,D,D,D,D,D,A,A,A,SD,SD,SD,SD,A,A,A,,,SD,D,D,SD,D,SD,SD,D,A,SA,D
+22,single,300,christian,UHAS,yes,20-25years,yes,yes,yes,20-50gh,three years later,yes,,voluntary,A,SA,A,SA,A,A,SA,SA,A,D,A,A,A,A,A,D,D,A,A,screening centre,yes,A,SA,A,SA,D,A,D,SA,A,SA,A
+22,single,400,christian,TERESCO,no,20-25years,no,yes,yes,>50gh,,no,,was recommended,D,D,D,SA,SA,SA,SA,SA,D,D,D,SA,D,D,D,D,D,D,D,,,A,D,D,A,A,A,D,D,SA,SA,A
+22,single,100,christian,MIDWIERY,yes,20-25years,no,yes,no,>20gh,three years later,yes,,was recommended,SA,SA,SA,SA,SA,SA,SA,A,A,D,SA,D,D,SA,SD,SA,SA,SA,SA,screening centre,no,SA,SA,SA,D,SD,SA,SD,SA,SA,SA,SA
+22,single,200,christian,MIDWIERY,no,20-25years,no,yes,yes,20-50gh,,yes,>=20gh,,SA,A,A,SA,A,A,SA,A,A,D,A,A,A,A,D,D,D,A,A,,,A,SA,A,A,A,A,D,SA,A,A,D
+20,single,200,christian,FRANCO,no,20-25years,yes,yes,yes,free,,yes,,,SD,D,SD,SA,A,D,D,SA,A,A,A,A,A,A,A,D,D,A,A,,,A,A,A,A,A,D,A,A,A,D,SA
+22,single,200,christian,TERESCO,no,20-25years,no,yes,no,free,,yes,,,SA,SA,SA,A,A,A,SA,D,SD,A,A,SA,SA,A,A,D,A,SA,SA,,,SD,SA,A,D,D,A,A,A,SA,A,SA
+26,single,300,christian,FRANCO,no,>25years,no,yes,yes,>20gh,,yes,,,D,A,D,SA,SA,SD,SA,A,A,D,A,A,A,SA,A,D,D,D,SA,,,A,SD,A,A,D,D,SD,D,D,D,A
+24,single,300,christian,MIDWIERY,no,20-25years,no,yes,yes,>20gh,,yes,,,A,A,A,D,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+21,single,100,christian,MIDWIERY,no,20-25years,no,yes,yes,>20gh,three years later,yes,,,A,SD,A,A,A,A,A,SD,SD,SD,SD,A,A,A,A,A,A,A,A,,,A,A,A,A,A,D,A,A,A,A,A
+24,single,300,christian,FRANCO,no,20-25years,yes,yes,no,20-50gh,,no,,,D,D,A,A,A,A,SA,SA,A,A,A,SA,SA,D,D,SA,A,SA,A,,,D,A,D,A,D,D,D,A,A,SA,D
+22,single,200,christian,TERESCO,no,20-25years,no,yes,no,20-50gh,,no,,,SA,SA,SA,D,D,D,SA,D,SA,SD,A,SA,SA,A,A,D,A,SA,SA,,,SD,SA,A,D,D,A,A,A,SA,A,SA
+21,single,100,christian,FRANCO,no,20-25years,no,no,no,20-50gh,,no,>=20gh,was recommended,A,A,A,D,A,A,SA,A,SA,SA,A,A,A,SA,SA,D,D,A,A,,,D,A,A,A,D,A,A,SA,A,SA,A
+24,single,300,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,yes,,,SA,A,A,SA,SA,SA,SA,SA,A,D,A,A,A,A,A,D,D,A,A,,,D,SA,SA,SA,A,A,SA,SA,SA,SA,SA
+21,single,100,christian,FRANCO,no,20-25years,yes,yes,yes,20-50gh,,yes,,,A,A,A,A,A,A,SD,A,A,A,D,D,SA,SA,SA,SA,A,D,SD,,,SD,SD,SD,SD,SD,D,A,SA,SA,SA,SA
+25,single,200,christian,MIDWIERY,no,20-25years,yes,yes,no,>20gh,,no,,,SA,D,D,SA,SA,A,A,A,SD,SD,SD,SD,SD,SD,SD,SD,SD,SD,SD,,,D,SA,SA,D,SA,D,SA,SA,SA,SA,SA
+25,single,200,christian,TERESCO,yes,20-25years,no,no,no,20-50gh,three years later,yes,,voluntary,D,A,SA,A,A,A,D,A,SA,A,D,SD,SD,SD,D,A,A,D,A,screening centre,no,SA,SA,SA,SA,SA,SA,A,SA,SA,A,D
+21,single,200,christian,FRANCO,no,20-25years,yes,yes,no,>50gh,,yes,,,D,D,D,SD,D,SD,D,D,A,A,A,A,D,D,SD,D,A,D,A,,,SA,SA,SA,SD,SD,D,A,SA,SA,SD,D
+21,single,300,christian,FRANCO,no,20-25years,yes,yes,no,>20gh,,no,,,SA,D,SA,D,A,A,SA,SD,SD,A,A,A,D,D,SD,A,SD,SD,D,,,D,SD,SD,A,D,SA,A,D,A,A,SA
+20,single,100,christian,UHAS,no,20-25years,no,no,yes,free,,no,,,SD,SD,A,A,A,A,A,D,D,A,D,SD,SD,SD,A,D,A,A,D,,,SD,D,SD,D,SD,D,SD,D,D,A,SD
+23,single,400,christian,UHAS,yes,20-25years,no,yes,yes,20-50gh,one year later,yes,,voluntary,SA,D,D,SA,D,D,SA,A,SA,A,SA,SA,SA,SA,D,D,D,SA,SA,screening centre,no,A,A,A,D,D,D,SA,SA,SA,D,A
+26,single,400,christian,FRANCO,no,>25years,yes,yes,no,20-50gh,,yes,,,SA,A,A,A,A,D,A,D,A,A,A,A,SA,SA,D,SA,SA,SA,SA,,,D,D,D,A,A,A,A,A,A,A,A
+25,single,400,christian,UHAS,no,20-25years,no,no,no,free,two years later,no,,,SA,SA,A,SA,A,D,SA,SA,A,D,A,A,A,SA,A,D,A,A,SA,,,A,A,SA,SA,A,A,SA,SA,A,A,SA
+20,single,200,muslim,UHAS,no,20-25years,yes,yes,no,20-50gh,,no,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,D,A,A,A,SD,SD,SD,SD,A,A,D
+25,single,200,christian,FRANCO,no,20-25years,no,no,no,free,,no,free,was recommended,SD,SD,SD,A,A,A,A,D,SD,A,SA,SD,SD,SD,D,A,A,D,SD,,,D,A,SA,A,A,SD,SD,D,A,A,SD
+23,single,300,christian,MIDWIERY,no,20-25years,no,no,no,free,,no,,,A,A,D,A,A,A,A,A,A,A,A,A,D,D,A,A,A,A,A,,,D,A,A,D,D,D,D,D,A,D,SA
+23,single,400,christian,TERESCO,no,20-25years,no,no,no,free,,no,,,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,SA,,,A,A,A,D,A,SA,SA,SA,SA,SA,A
+23,single,400,christian,FRANCO,no,20-25years,no,yes,no,20-50gh,,no,,,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,A
+22,single,300,christian,MIDWIERY,no,20-25years,yes,yes,no,>20gh,,no,>=20gh,,SD,SD,D,D,A,D,D,D,A,SA,SA,SA,A,A,D,D,D,SD,SD,,,SA,A,A,A,D,D,D,SA,SA,SA,SD
+24,single,400,christian,UHAS,no,20-25years,no,no,no,free,,no,>=20gh,,SA,SD,SD,SA,SA,SA,SA,SA,SA,SD,SA,SA,SA,D,D,SD,SD,D,SA,,,SA,SA,D,SD,D,SA,SD,SA,SA,SA,D
+23,single,300,christian,MIDWIERY,no,20-25years,no,no,no,free,,yes,,,D,D,D,A,A,D,D,SA,SA,D,D,A,A,SD,SD,SD,D,D,A,,,A,D,D,SD,D,A,A,A,A,SA,SA
+20,single,100,christian,TERESCO,no,20-25years,no,no,no,20-50gh,,no,,,A,A,D,D,D,SA,D,D,D,D,D,SA,SA,SA,SA,D,D,D,D,,,SD,D,D,SD,SA,SA,SA,SA,D,D,SD
+21,single,200,christian,UHAS,no,20-25years,yes,yes,yes,free,three years later,yes,,,SD,D,A,SD,A,D,SA,D,A,D,D,A,SA,A,SA,A,A,SA,SA,,,SA,SA,SA,A,D,D,SD,SA,SA,SA,SA
+24,single,100,christian,UHAS,no,20-25years,no,yes,no,20-50gh,three years later,no,,,SA,SA,SA,D,D,D,SA,D,SA,SD,A,SA,SA,A,A,D,A,SA,SA,,,SD,SA,A,D,D,A,A,A,SA,A,SA
+22,single,200,christian,TERESCO,no,20-25years,no,no,no,>20gh,,no,,,D,D,A,A,D,SA,A,SA,D,A,A,D,SA,SA,SA,A,D,D,A,,,SD,D,A,D,D,D,D,D,D,D,D
+21,single,200,christian,TERESCO,no,20-25years,no,no,no,free,,no,,,A,SD,SD,D,D,A,SA,A,A,A,A,A,A,A,A,A,A,A,A,,,A,A,D,D,D,A,SA,SA,SA,D,D
+24,single,400,christian,TERESCO,no,20-25years,no,yes,yes,20-50gh,,no,,,SA,A,SD,SA,SA,SA,A,D,SA,SA,SA,A,SA,D,A,A,SA,D,A,,,D,SA,D,A,D,A,A,D,D,SA,A
+22,single,300,christian,MIDWIERY,no,20-25years,no,no,no,>20gh,,yes,,,A,SD,D,D,A,SD,D,A,A,A,A,A,A,SA,SA,SA,SA,SA,SA,,,SA,SA,SA,SA,SA,SA,A,D,SD,SD,SD
+22,single,200,christian,MIDWIERY,no,20-25years,no,no,yes,20-50gh,,no,,,A,A,SD,SA,SA,A,SA,A,SA,D,A,A,SA,A,D,D,D,SA,A,,,SA,SA,D,A,A,A,SD,SA,A,SA,D
+24,single,200,christian,TERESCO,no,20-25years,yes,no,no,>20gh,,yes,,,A,SD,SA,A,SA,SA,SA,D,SA,SA,D,SA,SD,SA,SD,SD,SD,SA,SA,,,SD,SA,SA,SA,D,SA,SA,SA,SA,SA,SA
+20,single,100,christian,FRANCO,no,20-25years,no,yes,yes,20-50gh,,no,,,SA,A,D,A,SA,A,D,SA,SA,SA,SA,SA,SA,SA,SA,SD,SA,A,D,,,SA,A,A,D,SD,SA,A,D,SD,A,D
+26,single,400,christian,TERESCO,no,>25years,no,no,no,free,,no,,,D,D,A,D,A,A,A,D,D,A,A,D,A,D,A,A,A,A,A,,,D,A,A,A,A,A,D,D,A,A,D
+26,single,200,christian,TERESCO,yes,>25years,no,yes,no,free,,yes,,,SA,A,A,SA,SA,SA,SA,SA,A,D,A,A,A,A,A,D,D,A,A,,,D,SA,SA,SA,A,A,SA,SA,SA,SA,SA
+20,single,100,christian,FRANCO,no,20-25years,no,yes,no,free,,yes,,,A,A,A,SA,SA,SA,SA,SA,SD,A,SA,SA,D,SD,SD,SA,A,D,D,,,SD,SD,SD,SD,SD,D,A,A,A,D,A
+19,single,100,christian,FRANCO,yes,<20years,yes,yes,no,20-50gh,,no,,,D,D,A,A,A,A,SA,SA,A,A,A,SA,SA,D,D,SA,A,SA,A,,,D,A,D,A,D,D,D,A,A,SA,D
+23,single,100,christian,MIDWIERY,no,20-25years,no,yes,yes,>20gh,,yes,,,A,A,A,A,A,A,A,A,A,A,A,A,D,A,A,A,A,A,A,,,A,A,A,A,A,A,A,A,A,A,D
+23,single,400,christian,MIDWIERY,no,20-25years,no,no,yes,20-50gh,,yes,,,SD,A,SD,SD,SD,SD,SD,SD,D,SD,SD,D,A,A,A,SD,A,A,A,,,SA,SA,A,SA,SA,A,SA,A,SA,A,A
+23,single,200,christian,TERESCO,no,20-25years,no,yes,no,20-50gh,,yes,,,SA,A,A,A,D,SA,SA,D,SA,SA,SA,D,SA,SA,SA,SA,SA,SA,SA,,,D,D,D,D,D,A,A,A,D,A,A
+22,single,100,christian,UHAS,no,20-25years,yes,yes,no,20-50gh,,yes,,,A,A,A,SA,A,A,D,A,A,A,A,A,SA,SA,SA,SA,A,A,SA,,,D,D,A,A,A,A,A,A,D,A,A
+24,single,400,christian,UHAS,no,20-25years,no,yes,no,>20gh,,yes,,,SA,SD,A,SA,A,D,A,A,SA,D,A,SA,A,A,D,A,A,D,A,,,SA,SA,A,A,D,D,D,D,A,A,A
+20,single,200,christian,MIDWIERY,no,20-25years,yes,no,yes,20-50gh,,yes,,,SA,D,A,D,SA,SA,A,A,A,A,SA,A,D,D,A,D,D,A,A,,,A,A,D,A,D,A,D,D,D,SA,A
+20,single,200,christian,UHAS,no,20-25years,no,yes,no,20-50gh,,no,,,SD,D,SD,SA,A,D,D,SA,A,A,A,A,A,A,A,D,D,A,A,,,A,A,A,A,A,D,A,A,A,A,D
+24,single,300,christian,MIDWIERY,no,20-25years,no,yes,yes,20-50gh,,yes,,,D,SD,SA,SA,D,SA,D,SA,SA,SA,SA,SA,SA,D,SD,SD,SA,D,SD,,,SA,A,SA,SA,SA,SA,SA,D,A,SA,A
+24,single,400,christian,UHAS,no,20-25years,no,yes,yes,20-50gh,,yes,,,A,A,A,A,A,SD,A,D,SA,A,SA,A,SA,SA,A,A,A,A,A,,,A,SA,SA,A,A,A,SA,SA,A,SA,A
+24,single,200,christian,MIDWIERY,no,20-25years,no,yes,yes,20-50gh,,yes,,,A,A,A,A,A,SD,A,D,SA,A,SA,A,SA,SA,A,A,A,A,A,,,A,SA,SA,A,A,A,SA,SA,A,SA,SA
